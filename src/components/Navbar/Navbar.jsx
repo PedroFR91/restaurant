@@ -31,7 +31,7 @@ const Navbar = () => {
       </ul>
       <div className='app__navbar-login'>
         <a href='#login' className='p__opensans'>
-          Log In / Resgistro
+          Log In / Resgister
         </a>
         <div />
         <a href='/' className='p__opensans'>
